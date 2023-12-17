@@ -1,2 +1,0 @@
-print("ayo")
-print("shit")
